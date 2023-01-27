@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HenryLampoglio
 - 🌱 I’m currently in the third semester on the colege of computer science 
-- learning REACT
+- learning REACT and praticing javascript
 -My contact: henrylampoglio@hotmail.com
