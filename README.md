@@ -4,4 +4,4 @@
 - My contact: henrylampoglio@hotmail.com
 
 
-![snake animation](https://github.com/HenryLampoglio)
+![snake gif](https://github.com/HenryLampoglio/HenryLampoglio/blob/output/github-contribution-grid-snake.svg)
