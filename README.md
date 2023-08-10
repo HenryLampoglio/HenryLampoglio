@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryLampoglio
-- 🌱 I’m currently in the third semester on the colege of computer science 
-- learning REACT and praticing javascript
+- 🌱 I’m currently in the fourth semester on the colege of computer science 
+- learning and praticing React-Native
 - My contact: henrylampoglio@hotmail.com
 
 <div align="center">
@@ -15,8 +15,8 @@
   <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
   <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
   <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
 </div>
  </div>
 </br>
 
-![snake gif](https://github.com/HenryLampoglio/HenryLampoglio/blob/output/github-contribution-grid-snake.svg)
