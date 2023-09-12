@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryLampoglio
-- 🌱 I’m currently in the fourth semester on the colege of computer science 
-- learning and praticing React-Native
+- 🌱 I’m currently in the fourth semester of college of computer science 
+- learning and praticing React
 - My contact: henrylampoglio@hotmail.com
 
 <div align="center">
