@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HenryLampoglio
-- 🌱 I’m currently in the fourth semester of college of computer science 
-- learning and praticing React
+- 🌱 I’m currently in the fifth semester of college of computer science 
+- learning and praticing vue
 - My contact: henrylampoglio@hotmail.com
-
+- Working as front-end developer at smarti
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryLampoglio&show_icons=true&theme=tokyonight)
