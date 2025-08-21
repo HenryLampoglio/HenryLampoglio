@@ -1,6 +1,6 @@
 - Hi, I’m @HenryLampoglio
-- I’m currently in the fifth semester at college of computer science 
-- learning and praticing Laravel/PHP
+- I’m currently in the eitgh semester at college of computer science 
+- learning and praticing JAVA/SPRING
 - My contact: henrylampoglio@hotmail.com
 - Working as front-end developer at smarti
 <div align="center">
