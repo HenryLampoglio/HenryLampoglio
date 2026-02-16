@@ -25,19 +25,41 @@ I am a Computer Science graduate (2025) with 2 years of professional experience 
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-**Frontend & Mobile**
+**Frontend**
 <div style="display: inline-block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+---
+
+### 📊 My GitHub Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLampoglio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryLampoglio&layout=compact&theme=dracula&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryLampoglio&theme=dracula" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 Contribution Snake
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryLampoglio&layout=compact&theme=tokyonight&hide=html,css" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLampoglio&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://raw.githubusercontent.com/HenryLampoglio/HenryLampoglio/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🤝 Connect with me
+<div align="center">
+  <a href="https://linkedin.com/in/henry-lampoglio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:henrylampoglio@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
